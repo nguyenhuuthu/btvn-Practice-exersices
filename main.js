@@ -115,7 +115,7 @@
 //Sử dụng phương thức map của array, viết hàm multiply() nhận vào một mảng và trả về mảng mới với các số đã 
 //được nhân 3. Sử dụng hàm triple để nhân 3 các số đó.
 // let tripleNum = [1,2,3,4,55];
-// let n = prompt('NHap:');
+// let n = prompt(Number('NHap:'));
 // function triple(number){
 //     return number*3;
 // }
